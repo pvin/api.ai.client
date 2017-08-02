@@ -1,0 +1,7 @@
+{
+  "name": "chat_bot",
+  "private": true,
+  "dependencies": {
+    "api-ai-javascript" : "~> 2.0.0-beta.21"}
+
+}
