@@ -1,6 +1,6 @@
 $( document ).ready(function() {
     $('#submit').click(function () {
-        const client = new ApiAi.ApiAiClient({accessToken: 'fd71e081c5c345d090f8b29f35b81f0f'});
+        const client = new ApiAi.ApiAiClient({accessToken: '*******'});
         var message = $('#message').val()
         const promise = client.textRequest(message);
 
